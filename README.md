@@ -1,46 +1,33 @@
-<h1 align="center">
-UI Clone - Discord
-</h1>
+# DiscordUI-ReactJs
 
-<p align="center">Discord UI Clone (partial) for study purposes.</p>
-<p align="center">Deployed <a href="https://rocketseat-discord-clone.netlify.app/">here</a>.</p>
+### 🛠 Tecnologias
 
-<p align="center">
-  <a href="https://github.com/Rocketseat/youtube-clone-discord/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/rocketseat/youtube-clone-discord?color=%237159c1&logoColor=%237159c1&style=flat" alt="Contributors">
-  </a>
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/github/license/rocketseat/youtube-clone-discord?color=%237159c1&logo=mit" alt="License">
-  </a>
-</p>
+As seguintes ferramentas foram usadas na construção do projeto:
 
-<hr>
-
-## Participants
-
-| [<img src="https://avatars3.githubusercontent.com/u/10366880?s=460&v=4" width="75px;"/>](https://github.com/guilhermerodz) |
-| :------------------------------------------------------------------------------------------------------------------------: |
+- [React](https://pt-br.reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 
-| [Guilherme Rodz](https://github.com/guilhermerodz)
 
-## Techs
+# Clone este repositório
+$ git clone 
 
-- [x] React.js
-- [x] Styled Components
-- [x] TypeScript
+# Acesse a pasta do projeto no seu terminal/cmd
 
-## Ideas to implement
+# Instale as dependências
+$ yarn 
 
-- [ ] Add "scroll to new messages" button
-- [ ] Add state management (switch between Servers and Channels)
-- [ ] Back-end integration (roles, permissions, mentions, friend requests and more)
+# Execute a aplicação em modo de desenvolvimento
+$ yarn start
 
-## Usage
+# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 
-1. Run `npm install` or `yarn install`.<br />
-2. Run `yarn start` and access `http://localhost:3000`.<br />
+## 🦸 Autor
 
-## Contributing
+<a href="https://www.linkedin.com/in/lucas-rafael-97a341185/">
+ <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/LucasRafa13" width="100px;" alt=""/>
+ <br />
+ <sub><b>Lucas Rafael</b></sub></a> <a href="https://www.linkedin.com/in/lucas-rafael-97a341185/" title="Linkedin">🚀</a>
+ <br />
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
+---
