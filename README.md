@@ -27,7 +27,7 @@ $ yarn start
 
 ## 🦸 Autor
 
-## Deploy https://discord-ui-react-js.vercel.app/
+## Teste ao vivo! https://discord-ui-react-js.vercel.app/
 
 <a href="https://www.linkedin.com/in/lucas-rafael-97a341185/">
  <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/LucasRafa13" width="100px;" alt=""/>
